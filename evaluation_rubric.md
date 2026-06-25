@@ -1,0 +1,5 @@
+Factual accuracy
+Source grounding
+Completeness
+Citation correctness
+Overstatement
